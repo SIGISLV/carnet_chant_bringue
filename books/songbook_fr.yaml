@@ -1,0 +1,35 @@
+book:
+  lang: fr
+  encoding: utf8
+  datadir: "../datadir"
+  pictures: no
+  template: patacrep.tex
+  onesongperpage: no
+  
+chords:
+  show: yes
+  diagramreminder: all
+  repeatchords: yes
+  lilypond: no
+  instrument: ukulele
+  tablatures: no
+  notation: alphascale
+
+content:
+    song: "adele/*.sg"
+  
+template:
+  default.tex:
+    title: "Les chansons bringue"
+    author: "Lewis Villierme"
+  patacrep.tex:
+    subtitle: "Recueil de chant pour une bringue façon tahitienne"
+    url: "https://github.com/SIGISLV/carnet_chant_bringue"
+    email: "lewisvillierme@gmail.com"
+    color:
+      songlink: FFFF00
+      hyperlink: 00FFFF
+    bgcolor:
+      note: D1F5AE
+      songnumber: AEFFE4
+      index: E4FFD1
