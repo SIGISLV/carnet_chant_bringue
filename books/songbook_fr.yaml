@@ -16,7 +16,7 @@ chords:
   notation: alphascale
 
 content:
-    song: "adele/*.sg"
+    song: "cranberries/*.sg"
   
 template:
   default.tex:
