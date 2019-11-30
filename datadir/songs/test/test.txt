@@ -1,0 +1,81 @@
+{title:10 ans de nous}
+{subtitle:Ben Mazué}
+{guitar_comment:Version Guitare Capo 3}
+
+{comment:Intro}
+|[G].    .  [B7]  .    .    |[Em].    .  [G7/D]  .    .    |[C].    .    [D11].    .    |[G].    .    [D11].    .    |
+|[G].    .  [B7]  .    .    |[Em].    .  [G7/D]  .    .    |[A9/C#].    .    [Cm].    .    |[G].    .    [D11].    .    |
+
+[G]     Ça doit être la 700.000 ème fois 
+[Bm7]     Que je te vois t'habiller
+[Em]     Choisir cette culotte ou celle là 
+[C]     Que je te vois t'abîmer
+[G]     On a pas vraiment vieil[B7]li
+Parce qu'on se sent capable de tout en[Em]core mais,
+On a gagné quelques [C]plis, sur le [D11]corps
+
+{soc}
+Mais si la [G]vie par malchance 
+Me fait louper quelques rendez-[B7]vous
+Pour cause de [Em]molesse, négligence de [C]jeunesse
+[D11]Même si en[G]semble finalement, on devait pas [B7]aller au bout 
+Ca fait 10 [Em]ans que t'es passée devant mes yeux
+10 [C]ans que je me dis que
+[D11]     T 'es ce qui m'est arrivé de [G]     mieux     
+[Am]... [G]          [G/B] [C6] [G/D]   [C/D]
+{eoc}
+
+[G]     On se l'est tellement dit que ce serait pour lon[Bm7]gtemps
+Que finalement 10 piges ça [Em]parait pas tant
+C'est pas si é[C]patant, ça rafraichit l'o[D11]dyssée 
+[G]Même si l'on contemple plus que l'on a[B7]git
+Plus que l'on réus[Em]si, on essaie, [C]     on essaie  [D11]
+
+{soc}
+Mais si la [G]vie par malchance 
+Me fait louper quelques rendez-[B7]vous
+Pour cause de [Em]molesse, négligence de [C]jeunesse
+[D11]Même si en[G]semble finalement, on devait pas [B7]aller au bout 
+Ca fait 10 [Em]ans que t'es passée devant mes yeux
+10 [C]ans que je me dis que
+[D11]     T 'es ce qui m'est arrivé de [G]     mieux     
+[Am]... [G]          [G/B] [C6] [G/D]   [C/D]
+...
+{eoc}
+
+Oh mais [B7]si à l'avenir on passe à côté, [Em]    si on exige pas
+[C]     Au moins aussi bien que ce qui vient de se [G]passer
+Moi, [B7]     j'ai encore nos débuts en mémoire
+[Em]     Nos espoirs et je rougis [C]pas de ce qu'on est devenus
+[Am7]     [D11]     Deux enfants plus [G]tard      [Gadd9]   [G]
+
+[A9/C#]     10 ans de nous, [Cm]    10 ans de nous
+[G]     Est-ce que je [Em]tresse pas trop tôt des lauri[A9/C#]ers
+10 ans de nous, [Cm]     10 ans de nous
+[G]     Est-ce que je [Em]tresse pas trop tôt des lauri[A9/C#]ers
+10 ans de nous, [Cm]     10 ans de nous
+[G]     A [B7]deux doigts d'oubli[Em]er, qu'on [G7/D]s'est déjà perdus
+[A9/C#]     10 ans de nous 
+[Cm]    J'attends pas de toi, [G]tout 
+Mais j'attends [B7]de nous, [Em]ça
+[G7/D]J'attends de nous, [A9/C#]tout
+10 ans de [Cm]douceur, de souffrance, de [G]coups d'peur
+De [B7]tourments, de [Em]loose et de [G7/D]tournants 
+
+Des [A9/C#]souffleurs de crise et, des [Cm]bonheurs qui se brisent
+[G]     Et [B7]qu'on sait rallu[Em]mer 
+[G7/D]     Ce sera ça aimer     [A9/C#]
+Pour nous c'est [Cm]ça      [D11]   [G]
+
+
+{comment:© 2017   Ben Mazué / Ben Mazué & Guillaume Poncelet}
+{define: Am7 base-fret 1 frets x 0 2 0 1 0}
+{define: A9/C# base-fret 1 frets x 4 2 2 0 0}
+{define: D11 base-fret 3 frets x 3 3 3 1 0}
+{define: D/C base-fret 1 frets x x 0 0 1 0}
+{define: C6 base-fret 1 frets x 3 2 2 1 0}
+{define: G7 base-fret 1 frets 3 2 0 0 0 1}
+{define: G7/D base-fret 1 frets x x 0 0 0 1}
+{define: G/D base-fret 1 frets x x 0 0 0 3}
+{define: Gadd9 base-fret 1 frets 3 x 0 2 0 3}
+{artist:Ben Mazué} {key:Bb}

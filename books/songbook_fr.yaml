@@ -16,8 +16,8 @@ chords:
   notation: alphascale
 
 content:
-    song: "cranberries/*.sg"
-  
+    - "test/*"
+        
 template:
   default.tex:
     title: "Les chansons bringue"
