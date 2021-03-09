@@ -16,6 +16,7 @@ chords:
   notation: alphascale
 
 content:
+    - section : "Légendaire"
     - "test/*"
         
 template:
@@ -23,7 +24,7 @@ template:
     title: "Les chansons bringue"
     author: "Lewis Villierme"
   patacrep.tex:
-    subtitle: "Recueil de chant pour une bringue façon tahitienne"
+    subtitle: "Recueil de chant pour une bringue tahitienne"
     url: "https://github.com/SIGISLV/carnet_chant_bringue"
     email: "lewisvillierme@gmail.com"
     color:
