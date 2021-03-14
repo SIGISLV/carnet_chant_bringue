@@ -1,0 +1,31 @@
+\selectlanguage{english}
+\songcolumns{1}
+\beginsong{No te tama maohi}
+  [by={Tahiti},cover={}]
+  
+	\cover
+
+    \begin{verse}
+        [D] 
+        [D7]Te oto oto n[G]ei 
+        Te manu o te ra[Am]'i     [C] 
+        Pehe pehe no 'o[D]e
+        E[D7] te tam[C]a to'u [D]fenu[G]a       
+        [D7]Ua r[G]iro ho'[D7]i 'o[G]e
+        Mai te ho'e[Am]    fet[C]ia   
+        No te ra'i e[D] turamara[C]ma
+        To'u[D7] 'orar[G]aa    [D7]
+    \end{verse}
+  
+    \begin{chorus}
+        [G]O 'oe ta'u mihi ra[D]'a
+        Ta'u ferur[C]i ra'a
+        I te mau maha[G]na 'at[D7]o'a
+        [G]O 'oe te niu o te [D]orara'a
+        Te papa e vai n[C]ei
+        I roto i to'u[G] nei[D7] mafa[C]tu
+        [G]Aru'[D7]e te 'oa[G]'oa
+        Ia 'o[D7]e e te[G] tama
+        Te [D7]tama ma'o[G]hi 
+    \end{chorus}
+\endsong
